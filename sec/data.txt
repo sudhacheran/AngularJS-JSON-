@@ -1,0 +1,3 @@
+{ "records":[ {"Name":"Acetone","Health":"2","Fire":"3","Reactivity":"0","PPE":"H","image":"fammable2.png,excalamation.png","msds":"http://www.sciencelab.com/msds.php?msdsId=9927062"},
+{"Name":"Methanol","Health":"2","Fire":"3","Reactivity":"0","PPE":"H","image":"fammable2.png,toxic.png,healthhazard.png","msds":"http://www.sciencelab.com/msds.php?msdsId=9927227"} ] }
+
